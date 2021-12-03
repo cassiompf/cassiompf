@@ -100,24 +100,6 @@ I can program anything, because i love to code and learn. But i'm already know a
     align="center"
     width="46"
   />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    alt="Cassio-Mysql"
-    align="center"
-    width="46"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"
-    alt="Cassio-PostgreSql"
-    align="center"
-    width="46"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"
-    alt="Cassio-Redis"
-    align="center"
-    width="46"
-  />
 </div>
 
 ##
