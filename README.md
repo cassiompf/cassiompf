@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=cassiompf&color=blue&style=flat)
 
-### About Me
+### Hey folks! 👋
 My name is Cássio, I am 19 years old and I currently work as a fullstack web developer. You can find me on almost all social networks by @cassiompf, I use it for everything.
 
 ### Stack
