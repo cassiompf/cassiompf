@@ -12,7 +12,7 @@ I can program anything, because i love to code and learn. But i'm already know a
 
 ### Social Media
 <div style="display: inline_block;">
-  <a href="https://imgur.com/ApOlDRx">
+  <a href="https://imgur.com/2oPKUSt">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://twitter.com/cassiompf">
