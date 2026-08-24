@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=cassiompf&color=blue&style=flat)
 
 ### Hey folks! 👋
-My name is Cássio, I am 20 years old and I currently work as a fullstack web developer. You can find me on almost all social networks by @cassiompf, I use it for everything.
+My name is Cássio, I currently work as a fullstack web developer. You can find me on almost all social networks by @cassiompf, I use it for everything.
 
 ### Stack
 I can program anything, because i love to code and learn. But i'm already know and enjoy: **VueJS, JavaScript, Java, CSS+HTML, NodeJS, Ruby On Rails and Python**.
@@ -108,6 +108,6 @@ I can program anything, because i love to code and learn. But i'm already know a
 
 <div>
   <a href="https://github.com/cassiompf?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiompf&layout=compact&theme=graywhite" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cassiompf&theme=graywhite&show_icons=true" height="180em" /> 
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cassiompf&layout=compact&theme=github_dark_dimmed" height="180em" />
+  <img src="https://github-stats-extended.vercel.app/api?username=cassiompf&hide_title=true&include_all_commits=true&theme=github_dark_dimmed&show_icons=true" height="180em" /> 
 </div>
